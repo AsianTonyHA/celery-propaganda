@@ -1,0 +1,2 @@
+# celery-propaganda
+celery die
