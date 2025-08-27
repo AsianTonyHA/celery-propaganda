@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+	color: pink;
+	text-align: center;
+}
+
+h1 {
+	display: inline-block;
+	background-color: blue;
+	font-size: 80pt;
+	color: red;
+	padding: 5px 10px;
+	margin: 20px auto;
+	text-align: center;
+}
+h2 {
+	text-align: left;
+	background-color: #823802;
+	color: red;
+	text-align: center;
+	
+	font-size: 60;
+  
+}
